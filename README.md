@@ -23,4 +23,3 @@ npm install && npm start
 - Yup validation
 - Framer-Motion
 - Atomic Design System
-\
